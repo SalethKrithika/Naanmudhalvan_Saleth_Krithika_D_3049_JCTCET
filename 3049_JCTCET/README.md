@@ -36,6 +36,7 @@
     </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#ppt">PPT</a></li>
   </ol>
 </details>
 
@@ -87,7 +88,7 @@ To set up the LearnQuest project on your local machine, follow these steps:
 1. Navigate to the project directory:
 
    ```
-   cd learnquest
+   cd 3049_JCTCET
    ```
 
 1. Create a virtual environment to isolate the project's dependencies:
@@ -194,5 +195,11 @@ Don't forget to give the project a star! Thanks again!
 - Bootstrap: [https://getbootstrap.com/](https://getbootstrap.com/)
 - Google PALM API: The PALM API is used for question generation. [https://makersuite.google.com/](https://makersuite.google.com/)
 - Django Snippets: I used there code snippets to make my development faster [https://djangosnippets.org/](https://djangosnippets.org/)
+
+<!-- PPT -->
+
+## PPT
+
+- Link to PPT: [link](https://docs.google.com/file/d/1QXK-ZexBPgThAYq58o9wmd3wiZbgyb0-/edit?filetype=mspresentation)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
