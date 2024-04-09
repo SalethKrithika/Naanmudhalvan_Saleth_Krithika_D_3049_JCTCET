@@ -1,11 +1,9 @@
-
 <a name="readme-top"></a>
-
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/bcsamrudh/LearnQuest/blob/main/Images/logo.png">
+  <a href="https://github.com/bcsamrudh/LearnQuest/blob/main/3049_JCTCET/Images/logo.png">
     <img src="Images/logo.png" alt="Logo" width="100" height="60">
   </a>
 
@@ -22,8 +20,6 @@
     <a href="https://github.com/bcsamrudh/LearnQuest/issues">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -44,10 +40,10 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
+
 <p align="center">
     <a href="https://www.youtube-nocookie.com/embed/i71r4OBmgIc?si=jHJ0XgSd-IZIZKmA">Watch The Demo Video</a>
 </p>
@@ -66,26 +62,22 @@ LearnQuest provides the following features:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-* ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-* **Django-unicorn** : Django-unicorn is a Django library that integrates with the Unicorn library to provide real-time, reactive components in Django applications.
-* **Google PALM API** : The Google PALM API is used to generate questions based on the content of the notes.
-
+- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- **Django-unicorn** : Django-unicorn is a Django library that integrates with the Unicorn library to provide real-time, reactive components in Django applications.
+- **Google PALM API** : The Google PALM API is used to generate questions based on the content of the notes.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- GETTING STARTED -->
+
 ## Setting Up the Project
 
 To set up the LearnQuest project on your local machine, follow these steps:
@@ -144,38 +136,42 @@ To set up the LearnQuest project on your local machine, follow these steps:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 ## Sign-Up on the Website
+
 <img src="Images/SIGN_UP Page.png" alt="Sign Up page of the Website">
 
 ## Browse through a List of Notes Uploaded
+
 <img src="Images/NOTES_LIST Page.png" alt="Notes List Page">
 
 ## View a Note In Detail
+
 <img src="Images/NOTES_VIEW Page.png" alt="Notes View Page">
 
 ## Generate Question Based on the notes
+
 <img src="Images/QUESTIONS_VIEW Page.png" alt="Questions View Page">
 
 ## Upload Notes
+
 <img src="Images/UPLOAD_NOTES Page.png" alt="Sign Up page of the Website">
 
 ## Sign-In Page of the Website
+
 <img src="Images/SIGN_IN Page.png" alt="Questions View Page">
 
 ## About Page of the Website
+
 <img src="Images/ABOUT Page.png" alt="Questions View Page">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -191,19 +187,16 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
 - Django: [https://www.djangoproject.com/](https://www.djangoproject.com/)
@@ -211,6 +204,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 - Bootstrap: [https://getbootstrap.com/](https://getbootstrap.com/)
 - Google PALM API: The PALM API is used for question generation. [https://makersuite.google.com/](https://makersuite.google.com/)
 - Django Snippets: I used there code snippets to make my development faster [https://djangosnippets.org/](https://djangosnippets.org/)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
