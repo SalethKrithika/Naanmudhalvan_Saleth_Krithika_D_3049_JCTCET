@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="3049_JCTCET/Images/logo.png" alt="Logo" width="100" height="60">
+    <img src="Images/logo.png" alt="Logo" width="100" height="60">
   </a>
 
   <h3 align="center">LearnQuest</h3>
@@ -35,7 +35,6 @@
       <a href="#setting-up-the-project">Setting Up the Project</a>
     </li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -44,7 +43,7 @@
 
 ## About The Project
 
-<img src="3049_JCTCET/Images/NOTES_LIST Page.png" alt="Website Image">
+<img src="Images/NOTES_LIST Page.png" alt="Website Image">
 
 LearnQuest is a website that helps students share study notes and generate questions based on the notes using AI. It allows students to upload their notes, which are then used by AI to generate questions. Students can also view and comment on each other's notes, which helps them to learn from each other and improve their understanding of the material.
 
@@ -183,12 +182,6 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
