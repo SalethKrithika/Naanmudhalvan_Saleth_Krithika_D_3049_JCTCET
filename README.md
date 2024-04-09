@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/bcsamrudh/LearnQuest/blob/main/3049_JCTCET/Images/logo.png">
+  <a href="https://github.com/SalethKrithika/Naanmudhalvan_Saleth_Krithika_D_3049_JCTCET/blob/main/3049_JCTCET/Images/logo.png">
     <img src="Images/logo.png" alt="Logo" width="100" height="60">
   </a>
 
